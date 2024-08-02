@@ -1,2 +1,3 @@
-# resume-pdf
-Here is my resume
+# PDF Resume
+
+This repository contains the PDF version of my resume.
